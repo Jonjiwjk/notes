@@ -1,6 +1,6 @@
 # Programming
 ## Python
-- Syntax
+- [Syntax](https://github.com/Jonjiwjk/notes/blob/main/topics/pythonSyntax.md)
 - Data Types
 - Turtle
 - 
