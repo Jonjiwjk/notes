@@ -3,7 +3,7 @@
 - [Syntax](https://github.com/Jonjiwjk/notes/blob/main/topics/pythonSyntax.md)
 - Data Types
 - Turtle
-- 
+- Pygame
 
 ## Java
 - Syntax
@@ -13,8 +13,8 @@
 
 ## Processing
 - Syntax
-- 
--
+- Python
+- Java
 
 ## Linux
  - Scripting/Bash
@@ -27,3 +27,11 @@
 ## C
  - Syntax
  - Data Types
+ - System Calls
+ - 
+## Assembly 
+ -
+# Maths
+# Systems and Networks
+
+# ball ball ball
