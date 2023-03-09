@@ -9,7 +9,46 @@
 - Syntax
 - Data Types
 - OOP (Object Oriented Programming)
--
+## OOP
+- Abstraction
+- Object
+- Class
+- Attribute
+- Scope
+  - private
+  - (package)
+  - protected
+  - public
+- Encapsulation
+  - Getter/Setter
+- Polymorphism
+  - Method overloading
+  - Method overidding
+- Inheritance
+  - extends
+  - Generalization
+  - Specialization
+  - Downcasting
+  - Subclass
+  - Superclass
+  - Class hierachy
+  - Simple/multiple inheritance
+- Abstract
+  - abstract methd
+  - abstract class
+- Interface
+  - implements
+- Enum
+## UML
+  - UML class diagram
+  - UML object diagram
+  - Class relations
+    - generalization
+    - association
+        - composition
+        - aggregation
+  - has-a
+  - is-a
 
 ## Processing
 - Syntax
