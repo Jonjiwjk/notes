@@ -10,17 +10,14 @@
 - Data Types
 - OOP (Object Oriented Programming)
 ## OOP
-- Abstraction
-- Object
 - Class
+- Object
 - Attribute
 - Scope
   - private
   - (package)
   - protected
   - public
-- Encapsulation
-  - Getter/Setter
 - Polymorphism
   - Method overloading
   - Method overidding
@@ -33,8 +30,10 @@
   - Superclass
   - Class hierachy
   - Simple/multiple inheritance
-- Abstract
-  - abstract methd
+- Encapsulation
+  - Getter/Setter
+- Abstraction
+  - abstract method
   - abstract class
 - Interface
   - implements
