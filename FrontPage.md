@@ -61,7 +61,7 @@
    - DDosing
    - Hacking
  - Random Commands
- - 
+ - [Vim](https://github.com/Jonjiwjk/notes/blob/main/topics/vim_cheat_sheet.pdf)
 ## C
  - Syntax
  - Data Types
