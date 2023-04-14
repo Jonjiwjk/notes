@@ -1,1 +1,1 @@
-![A test image](image.png)
+![Vim Cheat Sheet](vim_cheat_sheet.pdf)
