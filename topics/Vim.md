@@ -14,6 +14,7 @@ Motions (File Movement)
  - l : moves forwards one character
  - w : moves forwards one word
  - b : moves backwards one word 
+
 A command can be executed with a number in front (es. 2j) to execute that command multiple times at once
 File modification
  - d
