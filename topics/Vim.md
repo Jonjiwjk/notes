@@ -8,11 +8,11 @@ The default mode that Vim starts in. It is accessible by pressing the "Esc" key.
 ## Command list
 ## Syntax : [Command] [Count] [Motion] 
 ### Motions (File Movement)
- - h : moves back one character
- - j : moves down one line
- - k : moves up one line
- - l : moves forwards one character
- - w : moves forwards one word
+ - **h : moves back one character
+ - **j : moves down one line
+ - **k : moves up one line
+ - **l : moves forwards one character
+ - **w : moves forwards one word
  - b : moves backwards one word 
 
 A motion can be executed with a number in front (es. 7k) to execute that command multiple times at once. For example, following our **Syntax**, i could input **d3j** and i would delete the line im currently on, plus the 3 below
