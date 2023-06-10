@@ -15,7 +15,7 @@ Motions (File Movement)
  - w : moves forwards one word
  - b : moves backwards one word 
 
-A command can be executed with a number in front (es. 2j) to execute that command multiple times at once
+A motion can be executed with a number in front (es. 7k) to execute that command multiple times at once. For exapmle, following our *Syntax*, i could input *d3j* and i would delete the line im currently on, plus the 3 below
 File modification
  - d
  - u
