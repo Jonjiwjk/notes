@@ -29,7 +29,13 @@
 
 ![vonneumannmodified](https://github.com/user-attachments/assets/b34436d4-ee5d-43b4-bc0d-54c53b4efe12)
 
-- CPU
+  - ### CPU
+  - ### Clock
+  - ### Memory
+  - ### Bus
+  - ### I/O devices
+  - ### Motherboard
+  
 
 # Programming
 - ## Machine Code
