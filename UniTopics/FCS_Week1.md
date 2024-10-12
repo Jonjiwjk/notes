@@ -2,6 +2,7 @@
 
 # Introduction
 ### Computer
+- A computer is a machine that processes data following a sequence of instructions
 ### Programming
 ### Algorithms
 
