@@ -1,4 +1,4 @@
 # Jonji's  notes
-[HS Front Page](https://github.com/Jonjiwjk/notes/blob/main/HSFrontPage.md)
+[Programming](https://github.com/Jonjiwjk/notes/blob/main/Programming.md)
 
 [Uni Front Page](https://github.com/Jonjiwjk/notes/blob/main/UniFrontPage.md)
