@@ -3,6 +3,9 @@
 # Introduction
 - ## Computer
   - A computer is a machine that processes data following a sequence of instructions
+  - For work, computers are good at performing
+    - repetitive and boring operations such as doing calculations or formatting texts
+    - complex and fast operations such as machinery control or management of information systems
 - ## Programming
 - ## Algorithms
 
@@ -27,7 +30,3 @@
 - ## Compiler and interpreter
 - ## Programming Workflow
 - ## Portability and Efficiency
-
-```math
-\natnums
-```
