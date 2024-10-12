@@ -6,7 +6,10 @@
   - For work, computers are good at performing
     - repetitive and boring operations such as doing calculations or formatting texts
     - complex and fast operations such as machinery control or management of information systems
+  - Programs are sequences of instructions executed by the computer decisions made by the computer to perform a certain activity
+  - 
 - ## Programming
+  - A program describes with great detail to the computer the sequence of steps required to perform a specific task The activity to design and implement a program is referred to as Programming
 - ## Algorithms
 
 # Computer Architecture
