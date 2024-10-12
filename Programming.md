@@ -2,7 +2,7 @@
 
 
 ## Python
-- [Syntax](https://github.com/Jonjiwjk/notes/blob/main/topics/pythonSyntax.md)
+- [Syntax]()
 - Data Types
 - Turtle
 - Pygame
@@ -63,7 +63,7 @@
    - DDosing
    - Hacking
  - Random Commands
- - [Vim](https://github.com/Jonjiwjk/notes/blob/main/topics/Vim.md)
+ - [Vim](https://github.com/Jonjiwjk/notes/blob/main/ProgrammingTopics/Vim.md)
 ## C
  - Syntax
  - Data Types
