@@ -22,7 +22,7 @@
   - 1945-46 John Von Neumann develops theoretical model of an architecture still widely used
   - Most of current computers have an architecture that can be traced back to Von Neumann's
   - Original Von Neumann's Model :
-    ![vonneumann](https://github.com/user-attachments/assets/8ac8e94c-338b-4f4a-9755-58134e96e4f8)
+![vonneumann](https://github.com/user-attachments/assets/8ac8e94c-338b-4f4a-9755-58134e96e4f8)
 
   - 
 
