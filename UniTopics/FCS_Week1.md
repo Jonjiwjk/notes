@@ -1,10 +1,10 @@
 # Foundations of Computer Science Week 1
 
 # Introduction
-- ### Computer
+- ## Computer
   - A computer is a machine that processes data following a sequence of instructions
-- ### Programming
-- ### Algorithms
+- ## Programming
+- ## Algorithms
 
 # Computer Architecture
 ### Von Neumann's Model
