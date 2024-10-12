@@ -23,9 +23,13 @@
   - Most of current computers have an architecture that can be traced back to Von Neumann's
   - Original Von Neumann's Model :
 
-![vonneumann](https://github.com/user-attachments/assets/8ac8e94c-338b-4f4a-9755-58134e96e4f8)
+![vonneumann](https://github.com/user-attachments/assets/719ea60f-65de-4061-b3cf-ab6f96927941)
 
-  - 
+  - Modified Von Neumann's Model :
+
+![vonneumannmodified](https://github.com/user-attachments/assets/b34436d4-ee5d-43b4-bc0d-54c53b4efe12)
+
+- CPU
 
 # Programming
 - ## Machine Code
