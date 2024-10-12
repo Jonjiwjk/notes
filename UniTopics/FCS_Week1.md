@@ -10,10 +10,20 @@
   - 
 - ## Programming
   - A program describes with great detail to the computer the sequence of steps required to perform a specific task The activity to design and implement a program is referred to as Programming
+  - Programming is an important part of computing
 - ## Algorithms
-
+  - An algorithm is the description of a method for solving a problem that consists of a finite sequence of executable steps comes to a conclusion with a finite number of steps.
+  - A computer can only solve problems for which an algorithm is known
+  - The identification of an algorithm is a prerequisite for solving a problem (with or without a computer).
+  - Writing a program to solve a problem usually involves translating an algorithm into some programming language.
+  - Before writing a program, it is necessary to identify and describe an algorithm!
 # Computer Architecture
 - ## Von Neumann's Model
+  - 1945-46 John Von Neumann develops theoretical model of an architecture still widely used
+  - Most of current computers have an architecture that can be traced back to Von Neumann's
+  - Original Von Neumann's Model :![vonneumann](https://github.com/user-attachments/assets/8ac8e94c-338b-4f4a-9755-58134e96e4f8)
+
+  - 
 
 # Programming
 - ## Machine Code
