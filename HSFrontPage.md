@@ -78,7 +78,4 @@
  - 
 ## Assembly 
  -
-# Maths
-# Systems and Networks
-
 # ball ball ball
