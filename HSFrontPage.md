@@ -1,12 +1,5 @@
 # Programming
-## 5AI
-- [Informatica](https://github.com/Jonjiwjk/notes/blob/main/5AI/Informatica.md)
-- Sistemi e Reti
-- TPI
-- Italiano
-- Storia
-- Matematica
-- Inglese
+
 
 ## Python
 - [Syntax](https://github.com/Jonjiwjk/notes/blob/main/topics/pythonSyntax.md)
