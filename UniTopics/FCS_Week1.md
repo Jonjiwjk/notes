@@ -29,5 +29,5 @@
 - ## Portability and Efficiency
 
 ```math
-\Reals
+\N
 ```
