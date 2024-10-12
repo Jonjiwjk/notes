@@ -29,5 +29,5 @@
 - ## Portability and Efficiency
 
 ```math
-E \subset {\reals}\reals
+E \subset(\reals)
 ```
