@@ -1,16 +1,16 @@
 # Foundations of Computer Science
 ## Lectures
-- [Week 1]
-- [Week 2]
+- [Week 1]()
+- [Week 2]()
 ## Exercises
 - Lab1
-  - [OK.java]
-  - [HelloWorld.java]
-  - [HelloJOptionPane.java]
-  - [HelloMyFriend.java]
-  - [Face.java]
-  - [DigitSpacer.java]
-  - [BaseConverter.java]
+  - [OK.java]()
+  - [HelloWorld.java]()
+  - [HelloJOptionPane.java]()
+  - [HelloMyFriend.java]()
+  - [Face.java]()
+  - [DigitSpacer.java]()
+  - [BaseConverter.java]()
 
 - Lab2
 - Lab3
