@@ -29,5 +29,5 @@
 - ## Portability and Efficiency
 
 ```math
-\cos (x+1) = 12
+E \subset \real
 ```
