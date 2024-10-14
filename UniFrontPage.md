@@ -1,6 +1,6 @@
 # Foundations of Computer Science
 ## Lectures
-- [Week 1](UniTopics/FCS_Week1)
+- [Week 1](UniTopics/FCS_Week1.md)
 - [Week 2]()
 ## Exercises
 - Lab1
