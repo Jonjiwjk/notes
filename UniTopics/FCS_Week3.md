@@ -2,6 +2,8 @@
 
 # Arithmetics in Java
 - ## Arithmetic operations
+  -  * --> multiplication operator
+  - 
 - ## Rounding
 - ## Math functions
 # Static Methods
