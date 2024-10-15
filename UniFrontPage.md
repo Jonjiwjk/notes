@@ -2,6 +2,7 @@
 ## Lectures
 - [Week 1](UniTopics/FCS_Week1.md)
 - [Week 2]()
+- [Week 3](UniTopics/FCS_Week3.md)
 ## Exercises
 - Lab1
   - [OK.java]()
