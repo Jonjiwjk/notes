@@ -35,19 +35,39 @@
   - Syntax : _ClassName.methodName(arguments)_ 
 # Complements of Java Syntax
 - ## Combining assignment and arithmetic statements
-  - ```python
+  - ```
     x = x + 2 --> x += 2
     x = x*2 --> x *= 2
     ```
 - ## Variable increment/decrement
-  - ```python
-    x = x +1
+  - ```
+    x = x + 1 --> x++
+    x = x - 1 --> x--
     ```
 - ## Variables without init / missing init of variables
+  - Variables can created without initialization
+  - In this case, the space for the varieble gets reserved in memory, but it isnt empty, it contains a random value
+  - If we use this variable without effectively initializing it, the compiler returns a compile time error
 - # Strings
   - ## The String Data Type
+    - While numbers are primitive data types, Strings are objects, which means they can call methods contained in the String class
     - Counting Characters :
-    - Extraction of a substring
+      - length() method
+      - not static
+      - ```
+        String s = "aaa"
+        s.length()
+        ```
+    - Extraction of a substring :
+    - substring(beginIndex, endIndex)
+    - returns a string based on the start and end index given
+    - we can also jut put beginIndex in the arguments, and the method returns the substring from the index indicated to the end of the original string 
+    - ```
+      String s = "abcd"
+      Indexes --> 0123
+      s.substring(0, 3) --> returns abc
+      s.substring(1) --> returns bcd
+      ```
     - String concatenation :
       - To concatenate strings we use the **+** operator
       - Any item concatenated turns into a string
@@ -55,4 +75,27 @@
  -  ## Useful Methods - String class
    - toUpperCase() : converts the whole string to upper case
    - toLowerCase() : converts the whole string to lower case
-   - 
+# Escape Sequences
+ - the backslash character is used to insert escxape sequences into the code
+ - to insert the backslash character into a string, for example, we use the double backslash (\\)
+ - \n --> newline
+ - We can also use the  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
