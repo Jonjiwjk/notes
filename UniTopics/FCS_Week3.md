@@ -2,7 +2,7 @@
 
 # Arithmetics in Java
 - ## Arithmetic operations
-  -  * --> multiplication operator
+  - *--> multiplication operator
   - 
 - ## Rounding
 - ## Math functions
