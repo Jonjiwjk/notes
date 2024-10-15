@@ -108,12 +108,16 @@
 # Java packages
 - ## Syntax - Importing classes from packages
 - ## Styles for importing classes
-- ## 
-- ##
-- ##
-- ##
-- ##
+
 # Converting strings to numbers and numbers to strings
+- ## How to convert strings into numbers 
+- ## Converting a string into a floating point number 
+- ## Converting numbers into strings
+# Number Formatting
+
+
+# Compile time errors
+# Runtime errors
 
 
 
