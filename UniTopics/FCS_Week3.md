@@ -15,6 +15,11 @@
   - ## The String Data Type
     - Counting Characters :
     - Extraction of a substring
-    - String concatenation
- - ## Useful Methods - String class
- - 
+    - String concatenation :
+      - To concatenate strings we use the **+** operator
+      - Any item concatenated turns into a string
+      - No space added between items
+ -  ## Useful Methods - String class
+   - toUpperCase() : converts the whole string to upper case
+   - toLowerCase() : converts the whole string to lower case
+   - 
