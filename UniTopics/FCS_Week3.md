@@ -79,7 +79,43 @@
  - the backslash character is used to insert escxape sequences into the code
  - to insert the backslash character into a string, for example, we use the double backslash (\\)
  - \n --> newline
- - We can also use the  
+ - We can also use the \ character to insert foreign characters
+ - ```
+   System.out.println("Frapp\u00E9?"); --> Frappè?
+   ```
+# Char Primitive Data Type
+# Introduction to Classes and Objects
+ - ## Motivations
+ - ## Objects
+ - ## Classes
+ - ## Using a class
+ - ## Calling instance methods
+ - ## Overloaded names of methods
+ - ## Creating and instancing objects
+ - ## Classes - Public interface 
+ - ## Creating and using objects
+ - ## Accessor and mutators instance methods
+ - ## Constructor of the java.lang.String class
+
+# Acquiring data from the user
+- ## Motivations
+- ## Acquiring data from the user
+- ## Acquiring data from an input dialog box
+- ## Presenting data to operators by message dialog box
+- ## Acquiring data from standard input
+- ## Using the java.util.Scanner class
+-  
+# Java packages
+- ## Syntax - Importing classes from packages
+- ## Styles for importing classes
+- ## 
+- ##
+- ##
+- ##
+- ##
+# Converting strings to numbers and numbers to strings
+
+
 
 
 
