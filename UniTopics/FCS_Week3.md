@@ -35,12 +35,14 @@
   - Syntax : _ClassName.methodName(arguments)_ 
 # Complements of Java Syntax
 - ## Combining assignment and arithmetic statements
-  - ```
+  - ```python
     x = x + 2 --> x += 2
     x = x*2 --> x *= 2
-  - ```
+    ```
 - ## Variable increment/decrement
-  - x = x +1
+  - ```python
+    x = x +1
+    ```
 - ## Variables without init / missing init of variables
 - # Strings
   - ## The String Data Type
