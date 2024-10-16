@@ -124,22 +124,25 @@
    ```
  - The nextInt() method waits for data to be entered
  - By using the double nextDouble() method, we can acquire floating point numbers
- - To acquire a word, i.e. a string delimited by chars SP, '\ t', '\ n', '\ r'): String next() method :
+ - To acquire a word, i.e. a string delimited by chars SP, '\ t', '\ n', '\ r'): String next() method
  - ```java
    System.out.print(“Enter a word: ”);
    String s = in.next();
    System.out.println(“Word entered: “ + s);
    ```
  - To acquire a line, i.e. a string delimited by the chars '\ n' or '\ r'): String nextLine ()
-method :
+method
  - ```java
    System.out.print(“Enter one or more words: ”);
    String s = in.nextLine();
    System.out.println(“Line entered: “ + s);
    ```
- - __**Since the Scanner class is not part of the java.lang package, but of the java.util
-package, it is necessary to import the class before using it__**
- - 
+ - *__Since the Scanner class is not part of the java.lang package, but of the java.util
+package, it is necessary to import the class before using it__*
+ - Its advisable to close the Scanner class object once we're done with it
+ - ```java
+   in.close_();
+   ```
 
 # Java packages
 - ## Syntax - Importing classes from packages
