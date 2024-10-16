@@ -103,8 +103,44 @@
 - ## Acquiring data from an input dialog box
 - ## Presenting data to operators by message dialog box
 - ## Acquiring data from standard input
+ - All Java programs have acces to their Standard output through the System.out object.
+ - Similarly, the System.in object makes the input stream available to running programs
+ - The Inputstream class makes the read() method available to read one byte at a time
 - ## Using the java.util.Scanner class
--  
+ - From JDK 5, the Scanner class was introduced, and it provides a convenient interface to the System.in object
+ -  Lets define a new Scanner object
+ -  ```java
+    Scanner in = new Scanner(System.in);
+    ```
+ - The constructor argument is a reference to a java.io.InputStream class object
+ - System.in is an instance of the java.io.InputStream class
+ - Scanner defines eight constructors
+ - Now that ew have defines a Scanner object, lets acquire data from Standard input
+ - ```java
+   Scanner in = new Scanner(System.in);
+   System.out.print(“Enter an integer ”);
+   int n = in.nextInt();
+   System.out.println(“Entered: “ + n);
+   ```
+ - The nextInt() method waits for data to be entered
+ - By using the double nextDouble() method, we can acquire floating point numbers
+ - To acquire a word, i.e. a string delimited by chars SP, '\ t', '\ n', '\ r'): String next() method :
+ - ```java
+   System.out.print(“Enter a word: ”);
+   String s = in.next();
+   System.out.println(“Word entered: “ + s);
+   ```
+ - To acquire a line, i.e. a string delimited by the chars '\ n' or '\ r'): String nextLine ()
+method :
+ - ```java
+   System.out.print(“Enter one or more words: ”);
+   String s = in.nextLine();
+   System.out.println(“Line entered: “ + s);
+   ```
+ - __**Since the Scanner class is not part of the java.lang package, but of the java.util
+package, it is necessary to import the class before using it__**
+ - 
+
 # Java packages
 - ## Syntax - Importing classes from packages
 - ## Styles for importing classes
