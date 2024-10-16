@@ -35,12 +35,12 @@
   - Syntax : _ClassName.methodName(arguments)_ 
 # Complements of Java Syntax
 - ## Combining assignment and arithmetic statements
-  - ```
+  - ```java
     x = x + 2 --> x += 2
     x = x*2 --> x *= 2
     ```
 - ## Variable increment/decrement
-  - ```
+  - ```java
     x = x + 1 --> x++
     x = x - 1 --> x--
     ```
@@ -54,7 +54,7 @@
     - Counting Characters :
       - length() method
       - not static
-      - ```
+      - ```java
         String s = "aaa"
         s.length()
         ```
@@ -62,7 +62,7 @@
     - substring(beginIndex, endIndex)
     - returns a string based on the start and end index given
     - we can also jut put beginIndex in the arguments, and the method returns the substring from the index indicated to the end of the original string 
-    - ```
+    - ```java
       String s = "abcd"
       Indexes --> 0123
       s.substring(0, 3) --> returns abc
@@ -80,7 +80,7 @@
  - to insert the backslash character into a string, for example, we use the double backslash (\\)
  - \n --> newline
  - We can also use the \ character to insert foreign characters
- - ```
+ - ```java
    System.out.println("Frapp\u00E9?"); --> Frappè?
    ```
 # Char Primitive Data Type
